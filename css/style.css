@@ -26,6 +26,11 @@
   margin: 100px;
 }
 
+/* set icons colors  */
+.headerli a:hover {
+  text-decoration: underline;
+}
+
 .search-area { 
   display: flex;
   border: 1px solid #dfe1e5;
